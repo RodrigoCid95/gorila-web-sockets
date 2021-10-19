@@ -1,4 +1,4 @@
-const { logger, LibraryManager, LoaderConfig } = require('@gorila/core');
+const { logger, LibraryManager, LoaderConfig } = require('gorila-core');
 const SocketIO = require('socket.io');
 /**
  * Socket controller.
