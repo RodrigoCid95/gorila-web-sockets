@@ -1,0 +1,28 @@
+{
+  "name": "gorila-web-sockets",
+  "version": "1.0.0",
+  "description": "Small library for socket.io",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RodrigoCid95/gorila-web-sockets.git"
+  },
+  "keywords": [
+    "gorila",
+    "backend",
+    "web-sockets",
+    "socket.io"
+  ],
+  "author": "Rodrigo Cid <rodrigocid95@gmail.com>",
+  "license": "MIT",
+  "types": "./index.d.ts",
+  "bugs": {
+    "url": "https://github.com/RodrigoCid95/gorila-web-sockets/issues"
+  },
+  "homepage": "https://github.com/RodrigoCid95/gorila-web-sockets#readme",
+  "dependencies": {
+    "@types/socket.io": "^3.0.2",
+    "gorila-core": "^1.0.1",
+    "socket.io": "^4.3.1"
+  }
+}
